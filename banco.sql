@@ -1,5 +1,5 @@
-CREATE DATABASE IF NOT EXISTS loja_essencia CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci;
-USE loja_essencia;
+CREATE DATABASE IF NOT EXISTS essenciagirls CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci;
+USE essenciagirls;
 
 -- 1. Usuários (Login, Recuperação de Senha e Foto em arquivo)
 CREATE TABLE usuarios (
